@@ -1,0 +1,137 @@
+********************************************************************************
+  Experimento N°1
+********************************************************************************
+    >OpenPort (21-Apr-2023 02:24:53): Opening port COM5, baudrate=9600
+    >ValveControl (21-Apr-2023 02:24:53): control mode for 1
+    >ValveSetFlow (21-Apr-2023 02:24:53): for 1, set to 0
+    >ValveControl (21-Apr-2023 02:24:53): control mode for 2
+    >ValveSetFlow (21-Apr-2023 02:24:53): for 2, set to 0
+    >ValveControl (21-Apr-2023 02:24:53): control mode for 3
+    >ValveSetFlow (21-Apr-2023 02:24:53): for 3, set to 0
+  <!> Modified the list of the next steps (21-Apr-2023 02:24:58), new 
+      left time is 00:04:04
+
+ >>>> Starting run (21-Apr-2023 02:25:09)
+    >ValveSetFlow (21-Apr-2023 02:25:09): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:25:10): for 2, set to 220
+  <t> Wait time (21-Apr-2023 02:25:11): set to wait for 1min.
+  <!> Modified the list of the next steps (21-Apr-2023 02:25:30), new 
+      left time is 00:06:04, estimated to end at 21-Apr-2023 02:32:14
+  <!> Jumping step (21-Apr-2023 02:25:40) : current step ended prematurely by 
+      user request after 00:00:28
+    >ValveSetFlow (21-Apr-2023 02:25:40): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:25:41): for 3, set to 220
+  <t> Wait time (21-Apr-2023 02:25:42): set to wait for 3min.
+  <!> Paused from 21-Apr-2023 02:26:09 to 21-Apr-2023 02:26:25, t=00:00:15
+  <!> Note (21-Apr-2023 02:26:45, t=00:01:35) : 
+        This is a note
+        with two lines
+  <!> Note : 
+        This is a note with no time
+  <!> Modified the list of the next steps (21-Apr-2023 02:27:03), new 
+      left time is 00:06:04, estimated to end at 21-Apr-2023 02:35:00
+  <!> Jumping step (21-Apr-2023 02:28:29) : current step ended prematurely by 
+      user request after 00:02:46
+    >ValveSetFlow (21-Apr-2023 02:28:29): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:28:30): for 3, set to 220
+  <t> Wait time (21-Apr-2023 02:28:31): set to wait for 3min.
+  <!> Jumping step (21-Apr-2023 02:28:40) : current step ended prematurely by 
+      user request after 00:00:09
+    >ValveSetFlow (21-Apr-2023 02:28:41): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:28:42): for 3, set to 220
+  <t> Wait time (21-Apr-2023 02:28:43): set to wait for 3min.
+  <!> Jumping step (21-Apr-2023 02:28:53) : current step ended prematurely by 
+      user request after 00:00:09
+
+ >>>> Ending run (21-Apr-2023 02:28:54)
+    >ValveClose (21-Apr-2023 02:28:54): closed 1
+    >ValveClose (21-Apr-2023 02:28:54): closed 2
+    >ValveClose (21-Apr-2023 02:28:54): closed 3
+
+Run ended at 21-Apr-2023 02:28:54.
+********************************************************************************
+  Experimento N°1
+********************************************************************************
+    >OpenPort (21-Apr-2023 02:32:58): Opening port COM5, baudrate=9600
+    >ValveControl (21-Apr-2023 02:32:58): control mode for 1
+    >ValveSetFlow (21-Apr-2023 02:32:58): for 1, set to 0
+    >ValveControl (21-Apr-2023 02:32:58): control mode for 2
+    >ValveSetFlow (21-Apr-2023 02:32:59): for 2, set to 0
+    >ValveControl (21-Apr-2023 02:32:59): control mode for 3
+    >ValveSetFlow (21-Apr-2023 02:32:59): for 3, set to 0
+  <!> Modified the list of the next steps (21-Apr-2023 02:33:05), new 
+      left time is 00:04:04
+********************************************************************************
+  Experimento N°1
+********************************************************************************
+    >OpenPort (21-Apr-2023 02:34:29): Opening port COM5, baudrate=9600
+    >ValveControl (21-Apr-2023 02:34:30): control mode for 1
+    >ValveSetFlow (21-Apr-2023 02:34:30): for 1, set to 0
+    >ValveControl (21-Apr-2023 02:34:30): control mode for 2
+    >ValveSetFlow (21-Apr-2023 02:34:30): for 2, set to 0
+    >ValveControl (21-Apr-2023 02:34:30): control mode for 3
+    >ValveSetFlow (21-Apr-2023 02:34:30): for 3, set to 0
+********************************************************************************
+  Experimento N°1
+********************************************************************************
+    >OpenPort (21-Apr-2023 02:36:40): Opening port COM5, baudrate=9600
+    >ValveControl (21-Apr-2023 02:36:40): control mode for 1
+    >ValveSetFlow (21-Apr-2023 02:36:40): for 1, set to 0
+    >ValveControl (21-Apr-2023 02:36:40): control mode for 2
+    >ValveSetFlow (21-Apr-2023 02:36:40): for 2, set to 0
+    >ValveControl (21-Apr-2023 02:36:41): control mode for 3
+    >ValveSetFlow (21-Apr-2023 02:36:41): for 3, set to 0
+  <!> Modified the list of the next steps (21-Apr-2023 02:36:46), new 
+      left time is 00:04:04
+
+ >>>> Starting run (21-Apr-2023 02:36:48)
+    >ValveSetFlow (21-Apr-2023 02:36:49): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:36:50): for 2, set to 220
+  <t> Wait time (21-Apr-2023 02:36:50): set to wait for 1min.
+  <!> Modified the list of the next steps (21-Apr-2023 02:37:56), new 
+      left time is 00:04:04
+********************************************************************************
+  Experimento N°1
+********************************************************************************
+    >OpenPort (21-Apr-2023 02:38:08): Opening port COM5, baudrate=9600
+    >ValveControl (21-Apr-2023 02:38:08): control mode for 1
+    >ValveSetFlow (21-Apr-2023 02:38:09): for 1, set to 0
+    >ValveControl (21-Apr-2023 02:38:09): control mode for 2
+    >ValveSetFlow (21-Apr-2023 02:38:09): for 2, set to 0
+    >ValveControl (21-Apr-2023 02:38:09): control mode for 3
+    >ValveSetFlow (21-Apr-2023 02:38:09): for 3, set to 0
+  <!> Modified the list of the next steps (21-Apr-2023 02:38:15), new 
+      left time is 00:05:04
+
+ >>>> Starting run (21-Apr-2023 02:38:18)
+    >ValveSetFlow (21-Apr-2023 02:38:18): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:38:19): for 2, set to 220
+  <t> Wait time (21-Apr-2023 02:38:20): set to wait for 2min.
+  <!> Modified the list of the next steps (21-Apr-2023 02:38:26), new 
+      left time is 00:02:02, estimated to end at 21-Apr-2023 02:42:19
+  <!> Note (21-Apr-2023 02:38:39, t=00:00:21) : 
+        This is a log note
+  <!> Note : 
+        This is another log note
+        now with two lines and no time
+  <!> Jumping step (21-Apr-2023 02:39:12) : current step ended prematurely by 
+      user request after 00:00:52
+    >ValveSetFlow (21-Apr-2023 02:39:13): for 1, set to 110
+    >ValveSetFlow (21-Apr-2023 02:39:14): for 3, set to 220
+  <t> Wait time (21-Apr-2023 02:39:15): set to wait for 2min.
+  <!> Modified the list of the next steps (21-Apr-2023 02:39:55), new 
+      left time is 00:05:01, estimated to end at 21-Apr-2023 02:46:12
+  <!> Modified the list of the next steps (21-Apr-2023 02:40:06), new 
+      left time is 00:02:01, estimated to end at 21-Apr-2023 02:43:11
+  <!> Jumping step (21-Apr-2023 02:40:20) : current step ended prematurely by 
+      user request after 00:01:04
+    >ValveSetFlow (21-Apr-2023 02:40:20): for 1, set to 100
+  <t> Wait time (21-Apr-2023 02:40:21): set to wait for 2min.
+  <!> Paused from 21-Apr-2023 02:40:24 to 21-Apr-2023 02:40:41, t=00:00:17
+
+ >>>> Ending run (21-Apr-2023 02:42:40)
+    >ValveClose (21-Apr-2023 02:42:40): closed 1
+    >ValveClose (21-Apr-2023 02:42:40): closed 2
+    >ValveClose (21-Apr-2023 02:42:40): closed 3
+
+Run ended at 21-Apr-2023 02:42:40.

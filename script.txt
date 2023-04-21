@@ -1,0 +1,17 @@
+Experimento N°1
+include valves: 1, 2, 3
+SerialPort = COM5
+SerialBaud = 9600
+
+start
+
+valve:1 , flow = 110
+valve:2 , flow = 220
+dt = 1
+sd asdf asdf asdf 
+valve:1 , flow = 110
+valve:3 , flow = 220
+dt = 1
+
+
+end
